@@ -1,0 +1,2 @@
+2026-01-20 10:37:26,702 [INFO] template.py:11 - __main__: Log depuis src
+2026-01-20 10:37:29,610 [INFO] main.py:18 - __main__: En avant! Nouveau projet 🎉
