@@ -8,9 +8,9 @@ logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 
 
-def template_function():
+def main():
     logger.info("Log depuis src")
 
 
 if __name__ == "__main__":
-    template_function()
+    main()
